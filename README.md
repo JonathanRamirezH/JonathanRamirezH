@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Actualmente me estoy formando como Ingeniero en Sistamas computacionales, 
 soy alumno de la Universidad Politécnica de Atlacomulco, 
 he estado en cursos 📖 de Cisco CCNA version 7, IBM y Microsoft Azure, además de ser autodidacta en temas 
-de los cuales quiro pertencer, como lo son el desarrollo web en lo particular 
+de los cuales quiero aprender y sean parte del clave para crecer como profesional en el área de sistemas.
