@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Jonathan 👋
 
 <!--
 **JonathanRamirezH/JonathanRamirezH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Actualmente me estoy formando como Ingeniero en Sistamas computacionales, 
-soy alumno de la Universidad Politécnica de Atlacomulco, 
-he estado en cursos 📖 de Cisco CCNA version 7, IBM y Microsoft Azure, además de ser autodidacta en temas 
+Soy Ingeniero en Sistemas Computacionales 👨‍💻
+
+He estado en cursos 📖 de Cisco CCNA version 7, IBM y Microsoft Azure, además de ser autodidacta en temas 
 de los cuales quiero aprender y sean parte del clave para crecer como profesional en el área de sistemas.
+
+<details open>
+ <summary>Lenguaje que conozco</summary>
+  
+  | Rank | Languages |
+  |-----:|-----------|
+  |     1| Python    |
+  |     2| Java      |
+  |     3| Clojure   |
+  |     4| C         |
+</details>
